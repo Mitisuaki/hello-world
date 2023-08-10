@@ -1,2 +1,2 @@
 # hello-world
-1st exercise
+It's my 1st exercise for Cubos Academy
